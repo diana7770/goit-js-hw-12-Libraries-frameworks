@@ -1,0 +1,27 @@
+{
+  "name": "goit-js-hw-12-libraries-frameworks",
+  "version": "1.0.0",
+  "description": "frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diana7770/goit-js-hw-12-Libraries-frameworks.git"
+  },
+  "keywords": [],
+  "author": "Shulga Diana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diana7770/goit-js-hw-12-Libraries-frameworks/issues"
+  },
+  "homepage": "https://github.com/diana7770/goit-js-hw-12-Libraries-frameworks#readme",
+  "dependencies": {
+    "chart.js": "^4.4.1",
+    "pnotify": "^5.2.0"
+  },
+  "devDependencies": {
+    "@pnotify/core": "^5.2.0"
+  }
+}

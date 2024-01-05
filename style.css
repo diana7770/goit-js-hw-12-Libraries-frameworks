@@ -1,0 +1,11 @@
+.startBtn {
+  width: 90px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: rgba(11, 121, 57, 0.836);
+  margin-right: 500px;
+  margin-left: 600px;
+}
+.game {
+  text-align: center;
+}
